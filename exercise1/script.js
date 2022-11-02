@@ -15,5 +15,4 @@ function validate() {
   else {
     element.innerHTML = "The passwords match!";
   }
-
 }
