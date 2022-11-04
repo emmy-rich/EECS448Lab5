@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(129, 129, 207);
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
+  color: whitesmoke;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: hotpink;
+  text-shadow: 2px 2px 5px #000;
+  text-align: center;
+}
+
+div.video-container {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.remy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: whitesmoke;
+}
+
+a:visited {
+  color: rgb(0, 0, 0);
+}
+
+a:hover {
+  color: hotpink;
+}
+
+.smaller {
+  font-size: small;
+}
+
+.rightLink {
+  float: right;
+  margin-right: 50px;
+}
+
+.leftLink {
+  margin-left: 50px;
+}
